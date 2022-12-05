@@ -1,8 +1,6 @@
 ---
-layout: post
-title:  "Новости"
-date:   2022-12-05 13:31:18 +0300
-categories: jekyll update
+layout: single
+title:  "Расписание богослужений"
 ---
 
 ![image](/sched.png)

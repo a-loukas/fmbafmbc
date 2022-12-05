@@ -20,19 +20,43 @@
 
 title: Храм во имя святителя Луки (Войно-Ясенецкого)
 email: heirourgos@mail.ru
-description: >- # this means to ignore newlines until "baseurl:"
+subtitle: >- 
+  Сайт прихода храмового корпуса во имя святителя Луки (Войно-Ясенецкого) ФМБЦ им. А.И. Бурназяна ФМБА России.
+description: >- 
   Сайт прихода храмового корпуса во имя святителя Луки (Войно-Ясенецкого) ФМБЦ им. А.И. Бурназяна ФМБА России.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
-google_analytics: UA-11312124-9
-show_downloads: false
+#google_analytics: UA-11312124-9
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-11312124-9"
+    anonymize_ip: false # default
+logo: "/assets/images/favicon.png"
+#show_downloads: false
+atom_feed:
+  hide: true
 languages: ["ru"]
-show_excerpts: true
+locale: "ru"
+#show_excerpts: true
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: true
 
 # Build settings
-theme: minima
+# theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
