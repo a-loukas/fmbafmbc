@@ -28,6 +28,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  jekyll
 google_analytics: UA-11312124-9
 show_downloads: false
+languages: ["ru"]
+show_excerpts: true
 
 # Build settings
 theme: minima
