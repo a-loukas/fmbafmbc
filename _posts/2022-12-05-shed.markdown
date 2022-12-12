@@ -1,7 +1,0 @@
----
-layout: single
-title:  "Расписание богослужений"
----
-
-![image](/sched.png)
-
