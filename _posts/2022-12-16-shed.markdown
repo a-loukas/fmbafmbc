@@ -3,16 +3,6 @@ layout: single
 title:  "Расписание богослужений"
 ---
 
-**_<span style="text-decoration:underline;">12 декабря, понедельник</span>_**
-
-Всенощное бдение (начало в 16.00)
-
-**_<span style="text-decoration:underline;">13 декабря, вторник</span>_**
-
-**Апостола Андрея Первозванного**(ок.62)
-
-Часы и Литургия (начало в 7.00) 
-
 **_<span style="text-decoration:underline;">16 декабря, пятница</span>_**
 
 Вечерня и утреня (начало в 16.00)
@@ -23,9 +13,7 @@ title:  "Расписание богослужений"
 
 Часы и Литургия (начало в 7.00)
 
- 
-
-**_<span style="text-decoration:underline;">17</span>_** **_<span style="text-decoration:underline;">декабря, суббота</span>_**
+**_<span style="text-decoration:underline;">17 декабря, суббота</span>_**
 
 Всенощное бдение (начало в 16.00)
 
@@ -37,10 +25,6 @@ title:  "Расписание богослужений"
 
 Часы и Литургия (начало в 7.00)
 
- 
-
-**_<span style="text-decoration:underline;">18 декабря, воскресенье</span>_**
-
 Всенощное бдение (начало в 16.00)
 
 **_<span style="text-decoration:underline;">19 декабря, понедельник</span>_**
@@ -49,3 +33,14 @@ title:  "Расписание богослужений"
 
 Часы и Литургия (начало в 7.00)
 
+ **_<span style="text-decoration:underline;">24</span>_** **_<span style="text-decoration:underline;">декабря, суббота</span>_**
+
+Всенощное бдение (начало в 16.00)
+
+**_<span style="text-decoration:underline;">25  декабря, воскресенье</span>_**
+
+Неделя 28-я по Пятидесятнице, святых праотец.
+
+**Святителя Спиридона, епископа Тримифунтского, чудотворца** (ок.348)
+
+Часы и Литургия (начало в 7.00)
