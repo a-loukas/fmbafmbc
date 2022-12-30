@@ -1,12 +1,15 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "О Храме"
-     url: /about/
-   - title: "Новости"
-     url: /posts/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "О Храме"
+    url: /about/
+  - title: "Новости"
+    url: /posts/
+
+docs:
+  - title: 
+    children:
+      - title: "Расписание богослужений"
+        url: /sched.html
+      - title: "Духовенство"
+        url: /serve.html
+
