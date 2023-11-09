@@ -3,7 +3,7 @@ main:
   - title: "О Храме"
     url: /about/
   - title: "Новости"
-    url: /posts/
+    url: /posts
 
 docs:
   - title: 
