@@ -4,5 +4,5 @@ layout: home
 author_profile: false
 ---
 
-{% capture schedule %}{% include shed.md %}{% endcapture %}
-{{ schedule | markdownify  }}
+{% capture announce %}{% include announce.md %}{% endcapture %}
+{{ announce | markdownify  }}
