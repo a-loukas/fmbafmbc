@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: home
 #layout: splash
 author_profile: false
 ---
 
-<!--{% include_relative _pages/shed.md %}-->
+<!--{% include_relative _pages/shed.md %}
 
 {% capture schedule %}{% include _pages/shed.md %}{% endcapture %}
-{{ my_include | schedule }}
+{{ my_include | schedule }}-->
