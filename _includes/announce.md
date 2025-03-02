@@ -1,7 +1,9 @@
 
 <span style="color:red;">[РАСПИСАНИЕ БОГОСЛУЖЕНИЙ](/sched)</span>
 
-[![Телеграм-канал храма]](/assets/images/qr-tg.png 'Телеграм-канал храма')](https://t.me/+jaXNi8ZJc6c0MzVi)
+<span style="color:red;">[Телеграм-канал храма:](/sched)</span>
+[![image-center]({{ "/assets/images/qr-tg.png" | relative_url }}){: .align-center}](https://t.me/+jaXNi8ZJc6c0MzVi)
+
 
 <video width="640" height="480" controls="controls" poster="/assets/images/fullview.jpg">
   <source src="https://bolvanovka.ru/video/Hram_SvLuki.mp4" type="video/mp4">
