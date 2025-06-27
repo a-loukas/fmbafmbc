@@ -23,34 +23,6 @@ __Вход с улицы открыт только на время богосл�
 {: .notice--warning}
 -->
 
-***<span style="text-decoration:underline;">9 июня, понедельник</span>***
+[23-29 июня](/assets/23-29 июня 2025.pdf)
 
-## <span style="color:red;"> День Святого Духа
-
-Часы и Литургия (начало в 7.00) – в 1 корпусе, для пациентов и сотрудников
-{: .notice--warning}
-
-***<span style="text-decoration:underline;">10 июня, вторник</span>***
-
-<span style="color:green;">Малая вечерня и акафист святителю Луке
-Крымскому. Всенощное бдение (начало в 15.00)
-
-***<span style="text-decoration:underline;">11 июня, среда</span>***
-
-# <span style="color:green;">Свт. Луки исп., архиеп. Симферопольского (1961)
-
-### <span style="color:lightgreen;">Престольный праздник
-
-<span style="color:green;">Водосвятный молебен. Часы. Литургия. Крестный ход (начало в 7.30)
-
-***<span style="text-decoration:underline;">14 июня, суббота</span>***
-
-Всенощное бдение (начало в 16.00)
-
-***<span style="text-decoration:underline;">15 июня, воскресенье</span>***
-
-<span style="color:red;"> **Всех святых**
-
-Часы. Литургия. Молебен о недужных (начало в 7.00)
-
-_Заговенье на Петров пост (Петров мясопуст)_
+[30 июня - 7 июля](/assets/30 июня - 7 июля 2025.pdf)
